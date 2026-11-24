@@ -277,7 +277,8 @@ civicpulse-ai/
 * [x] **Production-Grade UI**: Responsive, accessible, aesthetic, and mobile-friendly
 
 ---
-
+## 🌐 Live Website
+https://civicpulse2007.netlify.app/
 ## 📄 License
 
 This project is licensed under the **MIT License** — feel free to use, adapt, and build upon it for civic and open-source initiatives.
